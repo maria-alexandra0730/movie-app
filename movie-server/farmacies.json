@@ -1,0 +1,2505 @@
+[{
+    "id": 1,
+    "name": "ANTIPIRETICA IMPEX",
+    "address": "Str. SPERANTEI, Nr. FN, AGHIRESU-FABRICI, jud. CLUJ",
+    "city": "AGHIRESU-FABRICI",
+    "county": "CLUJ",
+    "phone": "0264357411"
+  },
+  {
+    "id": 2,
+    "name": "ANTISEPTICA",
+    "address": ", Nr. 150A, AGHIRESU-FABRICI, jud. CLUJ",
+    "city": "AGHIRESU-FABRICI",
+    "county": "CLUJ",
+    "phone": "0264357261"
+  },
+  {
+    "id": 3,
+    "name": "HAIS FARM",
+    "address": "Str. PRINCIPALA, Nr. 81, AGHIRESU-FABRICI, jud. CLUJ",
+    "city": "AGHIRESU-FABRICI",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 4,
+    "name": "FARMACIA RALUCA",
+    "address": "Str. LIBERTATII, Nr. 64, APAHIDA, jud. CLUJ",
+    "city": "APAHIDA",
+    "county": "CLUJ",
+    "phone": "0264-231848"
+  },
+  {
+    "id": 5,
+    "name": "POTENTILLA",
+    "address": "Str. REPUBLICII, Nr. 11C, APAHIDA, jud. CLUJ",
+    "city": "APAHIDA",
+    "county": "CLUJ",
+    "phone": "0745-275879"
+  },
+  {
+    "id": 6,
+    "name": "PRIMULA FARM",
+    "address": "Str. LIBERTATII, Nr. 142A, APAHIDA, jud. CLUJ",
+    "city": "APAHIDA",
+    "county": "CLUJ",
+    "phone": "0264-231333"
+  },
+  {
+    "id": 7,
+    "name": "SC REMEDIUM FARM SRL",
+    "address": "Str. LIBERTATII, Nr. 197, Ap. 1, APAHIDA, jud. CLUJ",
+    "city": "APAHIDA",
+    "county": "CLUJ",
+    "phone": "0264231725"
+  },
+  {
+    "id": 8,
+    "name": "ACAMA",
+    "address": "Str. PRINCIPALA, Nr. 204, BACIU, jud. CLUJ",
+    "city": "BACIU",
+    "county": "CLUJ",
+    "phone": "0264260435"
+  },
+  {
+    "id": 9,
+    "name": "IORAFARM",
+    "address": "Str. NOUA, Nr. 349, BACIU, jud. CLUJ",
+    "city": "BACIU",
+    "county": "CLUJ",
+    "phone": "0740-029783"
+  },
+  {
+    "id": 10,
+    "name": "PHARMA BOX",
+    "address": ", Nr. 27A, BACIU, jud. CLUJ",
+    "city": "BACIU",
+    "county": "CLUJ",
+    "phone": "0725-920535"
+  },
+  {
+    "id": 11,
+    "name": "SCMELIOFARM SRL",
+    "address": ", Nr. 305, BACIU, jud. CLUJ",
+    "city": "BACIU",
+    "county": "CLUJ",
+    "phone": "0264260322"
+  },
+  {
+    "id": 12,
+    "name": "ADA PHARM",
+    "address": "Str. PRINCIPALA, Nr. 75, BAISOARA, jud. CLUJ",
+    "city": "BAISOARA",
+    "county": "CLUJ",
+    "phone": "0371309542"
+  },
+  {
+    "id": 13,
+    "name": "PEDIFARM",
+    "address": ", Nr. 32, BAISOARA, jud. CLUJ",
+    "city": "BAISOARA",
+    "county": "CLUJ",
+    "phone": "0742082323"
+  },
+  {
+    "id": 14,
+    "name": "DENI FARM",
+    "address": ", Nr. 105A, BELIS, jud. CLUJ",
+    "city": "BELIS",
+    "county": "CLUJ",
+    "phone": "0742037108"
+  },
+  {
+    "id": 15,
+    "name": "IULFARM",
+    "address": "Str. Principala, Nr. 134, BONTIDA, jud. CLUJ",
+    "city": "BONTIDA",
+    "county": "CLUJ",
+    "phone": "0728-858976"
+  },
+  {
+    "id": 16,
+    "name": "LORA FARM",
+    "address": ", Nr. 168, BONTIDA, jud. CLUJ",
+    "city": "BONTIDA",
+    "county": "CLUJ",
+    "phone": "0722-699231"
+  },
+  {
+    "id": 17,
+    "name": "MALVA FARM",
+    "address": "Str. PRINCIPALA, Nr. 249, BORSA, jud. CLUJ",
+    "city": "BORSA",
+    "county": "CLUJ",
+    "phone": "0264-355444"
+  },
+  {
+    "id": 18,
+    "name": "LUCAFARM",
+    "address": "Str. Principala, Nr. 220, CAIANU MIC, jud. CLUJ",
+    "city": "CAIANU MIC",
+    "county": "CLUJ",
+    "phone": "0264-280026"
+  },
+  {
+    "id": 19,
+    "name": "FARMACIA ACCACIA",
+    "address": ", Nr. 353, Ap. 1, CAMARASU, jud. CLUJ",
+    "city": "CAMARASU",
+    "county": "CLUJ",
+    "phone": "0264288085"
+  },
+  {
+    "id": 20,
+    "name": "HAWASH FARM",
+    "address": "Str. PRINCIPALA, Nr. 130B, CAMARASU, jud. CLUJ",
+    "city": "CAMARASU",
+    "county": "CLUJ",
+    "phone": "0742964123"
+  },
+  {
+    "id": 21,
+    "name": "21 IRIS FARMACIE",
+    "address": "Str. LAMINORISTILOR, Nr. 101, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-365203"
+  },
+  {
+    "id": 22,
+    "name": "ANIFARM",
+    "address": "Str. MIHAI VITEAZU, Nr. 11, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-368128"
+  },
+  {
+    "id": 23,
+    "name": "ANIFARM",
+    "address": "Str. PROF. ANDREI MURESANU, Nr. 32, Ap. 1, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-368127"
+  },
+  {
+    "id": 24,
+    "name": "BIANCORA",
+    "address": "Str. 1 DECEMBRIE 1918, Nr. 62, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-365103"
+  },
+  {
+    "id": 25,
+    "name": "Biancora (Ecofarmacia)",
+    "address": "Str. BAII, Nr. 7, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-366706"
+  },
+  {
+    "id": 26,
+    "name": "CATENA FARMACIE",
+    "address": "Str. GHEORGHE BARITIU, Nr. 59, Ap. 3, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-365977"
+  },
+  {
+    "id": 27,
+    "name": "DELADI FARM",
+    "address": "Str. 1 DECEMBRIE 1918, Nr. 38, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0754-244837"
+  },
+  {
+    "id": 28,
+    "name": "DONA 275",
+    "address": "Str. LAMINORISTILOR, Nr. 19, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0372-401275"
+  },
+  {
+    "id": 29,
+    "name": "FARMACIA NR. 26",
+    "address": "Str. LAMINORISTILOR, Nr. 19, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-369629"
+  },
+  {
+    "id": 30,
+    "name": "GEDEON RICHTER 16",
+    "address": "Str. LAMINORISTILOR, Nr. 19, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-369629"
+  },
+  {
+    "id": 31,
+    "name": "MAGNOLIA PLUS (CATENA)",
+    "address": "Str. PIATA MIHAI VITEAZU, Nr. 1, Bl. D, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-365971"
+  },
+  {
+    "id": 32,
+    "name": "REEAFARM ",
+    "address": "Str. AVRAM IANCU, Nr. 33, CAMPIA TURZII, jud. CLUJ",
+    "city": "CAMPIA TURZII",
+    "county": "CLUJ",
+    "phone": "0264-365189"
+  },
+  {
+    "id": 33,
+    "name": "SC FARMAMED SRL",
+    "address": "Str. PRINCIPALA, Nr. 56, CAPUSU MARE, jud. CLUJ",
+    "city": "CAPUSU MARE",
+    "county": "CLUJ",
+    "phone": "0264350085"
+  },
+  {
+    "id": 34,
+    "name": "MILTONIA FARM",
+    "address": "Str. PRINCIPALA, Nr. 245, CASEIU, jud. CLUJ",
+    "city": "CASEIU",
+    "county": "CLUJ",
+    "phone": "0264-225122"
+  },
+  {
+    "id": 35,
+    "name": "MILTONIA FARM",
+    "address": ", Nr. 100, CATCAU, jud. CLUJ",
+    "city": "CATCAU",
+    "county": "CLUJ",
+    "phone": "0264-225122"
+  },
+  {
+    "id": 36,
+    "name": "VITISFARMIOANA",
+    "address": ", Nr. 375, CEANU MARE, jud. CLUJ",
+    "city": "CEANU MARE",
+    "county": "CLUJ",
+    "phone": "0264-327150"
+  },
+  {
+    "id": 37,
+    "name": "PAN ALBATROS",
+    "address": ", Nr. 636, CHINTENI, jud. CLUJ",
+    "city": "CHINTENI",
+    "county": "CLUJ",
+    "phone": "0742-048791"
+  },
+  {
+    "id": 38,
+    "name": "NATURAL PLANT",
+    "address": "Str. PRINCIPALA, Nr. FN, CHIUIESTI, jud. CLUJ",
+    "city": "CHIUIESTI",
+    "county": "CLUJ",
+    "phone": "0746-206020"
+  },
+  {
+    "id": 39,
+    "name": "AZALEEA FARM",
+    "address": ", Nr. 132, CIUCEA, jud. CLUJ",
+    "city": "CIUCEA",
+    "county": "CLUJ",
+    "phone": "0264259024"
+  },
+  {
+    "id": 40,
+    "name": "MONADISFARM",
+    "address": "Str. PRINCIPALA, Nr. 372, CIUCEA, jud. CLUJ",
+    "city": "CIUCEA",
+    "county": "CLUJ",
+    "phone": "0723954738"
+  },
+  {
+    "id": 41,
+    "name": "2M FARMACIE PLUS (CATENA)",
+    "address": "Str. MEMORANDUMULUI, Nr. 12, Ap. 7 SI 8, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-410028, 0264-439361"
+  },
+  {
+    "id": 42,
+    "name": "2M FARMACIE PLUS (CATENA)",
+    "address": "Str. SEPTIMIU ALBINI, Nr. 113, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-440412"
+  },
+  {
+    "id": 43,
+    "name": "ALCHEMILLA",
+    "address": "Str. N. TITULESCU, Nr. 2, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-443583"
+  },
+  {
+    "id": 44,
+    "name": "ALDEDRA",
+    "address": "Str. N. TITULESCU, Nr. 165, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-520090"
+  },
+  {
+    "id": 45,
+    "name": "ALDEDRA",
+    "address": "Str. LOUIS PASTEUR, Nr. 24, Ap. 71, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-520090"
+  },
+  {
+    "id": 46,
+    "name": "ALDEDRA",
+    "address": "Str. LOUIS PASTEUR, Nr. 60, Ap. 5-6, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-453157, 0264-520090"
+  },
+  {
+    "id": 47,
+    "name": "ALDEDRA",
+    "address": "Str. 21 DECEMBRIE 1989, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-333833"
+  },
+  {
+    "id": 48,
+    "name": "ALLOFARM",
+    "address": "Str. LACRAMIOARELOR, Nr. 2, Ap. 4, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-274838"
+  },
+  {
+    "id": 49,
+    "name": "AQUA FARM",
+    "address": "Str. 21 DECEMBRIE 1989, Nr. 57, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-535369"
+  },
+  {
+    "id": 50,
+    "name": "ARNICA",
+    "address": "Str. IZLAZULUI, Nr. 10, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-458081"
+  },
+  {
+    "id": 51,
+    "name": "BALADA BLUE",
+    "address": "Str. TRAIAN MOSOIU, Nr. 46, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-333435"
+  },
+  {
+    "id": 52,
+    "name": "BALANIS",
+    "address": "Str. OBSERVATORULUI, Nr. 119, Ap. 11, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-453116"
+  },
+  {
+    "id": 53,
+    "name": "BENDIS PHARMA",
+    "address": "Str. CALEA FLORESTI, Nr. 77, Ap. 112A, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264424109"
+  },
+  {
+    "id": 54,
+    "name": "CALENDULA PHARM",
+    "address": "Str. HOREA, Nr. 28-30, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-590498"
+  },
+  {
+    "id": 55,
+    "name": "CATENA FARMACIE",
+    "address": "Str. MARESAL ION ANTONESCU, Nr. 6, Ap. 219, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-427195"
+  },
+  {
+    "id": 56,
+    "name": "CATENA FARMACIE",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. 37A, Bl. A, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-487298"
+  },
+  {
+    "id": 57,
+    "name": "CATENA FARMACIE",
+    "address": "Str. PARIS, Nr. 23, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-411031"
+  },
+  {
+    "id": 58,
+    "name": "CATENA FARMACIE",
+    "address": "Str. LOUIS PASTEUR, Nr. 73, Ap. 46, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-438805"
+  },
+  {
+    "id": 59,
+    "name": "CATENA FARMACIE",
+    "address": "Str. I.P. VOITESTI, Nr. FN, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-421116"
+  },
+  {
+    "id": 60,
+    "name": "CATENA FARMACIE",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 137, Bl. M4, Ap. 158, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-410210"
+  },
+  {
+    "id": 61,
+    "name": "CATENA FARMACIE",
+    "address": "Str. 21 DECEMBRIE 1989, Nr. 133, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-411128"
+  },
+  {
+    "id": 62,
+    "name": "CATENA FARMACIE",
+    "address": "Str. CALEA FLORESTI, Nr. 75, Ap. 121, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-421117"
+  },
+  {
+    "id": 63,
+    "name": "CHAMOMILLA",
+    "address": "Str. MOTILOR, Nr. 19, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-591639"
+  },
+  {
+    "id": 64,
+    "name": "CYNARA FARM",
+    "address": "Str. CALEA FLORESTI, Nr. 75, Bl. V2, Ap. 119, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-426272"
+  },
+  {
+    "id": 65,
+    "name": "DANAFARM",
+    "address": "Str. TRAIAN VUIA, Nr. 26, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-524191"
+  },
+  {
+    "id": 66,
+    "name": "DELADI FARM",
+    "address": "Str. OBSERVATORULUI, Nr. 9, Bl. OS9, Ap. 11, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0754-244841, 0759-032116"
+  },
+  {
+    "id": 67,
+    "name": "DELADI FARM CLUJ 2",
+    "address": "Str. B-DUL CONSTANTIN BRANCUSI, Nr. 154, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0754-244840"
+  },
+  {
+    "id": 68,
+    "name": "DIAFARM",
+    "address": "Str. Iuliu Maniu, Nr. 2, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-439438"
+  },
+  {
+    "id": 69,
+    "name": "DIAFARM 3",
+    "address": "Str. MEHEDINTI, Nr. 74, Ap. 41, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-457174"
+  },
+  {
+    "id": 70,
+    "name": "DONA 185",
+    "address": "Str. ION MESTER, Nr. 5, Ap. 78, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407185"
+  },
+  {
+    "id": 71,
+    "name": "DONA 190",
+    "address": "Str. HOREA, Nr. 66, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407190"
+  },
+  {
+    "id": 72,
+    "name": "DONA 221",
+    "address": "Str. ION CREANGA, Nr. 2D, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407221"
+  },
+  {
+    "id": 73,
+    "name": "DONA 250",
+    "address": "Str. LOUIS PASTEUR, Nr. 79, Ap. 51, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-401250"
+  },
+  {
+    "id": 74,
+    "name": "DONA 278",
+    "address": "Str. P-TA CIPARIU, Nr. 3, Ap. 3, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407075"
+  },
+  {
+    "id": 75,
+    "name": "DONA 80",
+    "address": "Str. ALEEA PADIN, Nr. 20-22, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407080"
+  },
+  {
+    "id": 76,
+    "name": "DONA 91",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. 17, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0372-407091"
+  },
+  {
+    "id": 77,
+    "name": "DUCFARM",
+    "address": "Str. MEMORANDUMULUI, Nr. 18, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0741-127268"
+  },
+  {
+    "id": 78,
+    "name": "DUCFARM",
+    "address": "Str. P-TA 1 MAI, Nr. 4-5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-434489"
+  },
+  {
+    "id": 79,
+    "name": "DUCFARM",
+    "address": "Str. FABRICII, Nr. 5, Ap. 176B, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0741-127268"
+  },
+  {
+    "id": 80,
+    "name": "DUCFARM",
+    "address": "Str. P-TA TIMOTEI CIPARIU, Nr. 15, Bl. IIIA, Sc. C, Ap. 56, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264434437"
+  },
+  {
+    "id": 81,
+    "name": "DUCFARM",
+    "address": "Str. CRAIOVA, Nr. 28-30, Ap. 21, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-434479"
+  },
+  {
+    "id": 82,
+    "name": "DUCFARM",
+    "address": "Str. PLOIESTI, Nr. 6-8, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-434479"
+  },
+  {
+    "id": 83,
+    "name": "DUCFARM",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 75, Ap. 2, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264434437"
+  },
+  {
+    "id": 84,
+    "name": "DUCFARM",
+    "address": "Str. HOREA, Nr. 42-44, Ap. 28, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0741-127268"
+  },
+  {
+    "id": 85,
+    "name": "DUCFARM 12",
+    "address": "Str. ALBAC, Nr. 16, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-546874"
+  },
+  {
+    "id": 86,
+    "name": "ECOFARMACIA NETWORK",
+    "address": "Str. VICTOR BABES, Nr. 11, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-486383"
+  },
+  {
+    "id": 87,
+    "name": "ECOFARMACIA NETWORK",
+    "address": "Str. DAMBOVITEI, Nr. 49A-51, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-593512"
+  },
+  {
+    "id": 88,
+    "name": "ECOFARMACIA NETWORK",
+    "address": "Str. P-TA CIPARIU, Nr. 15, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-592484"
+  },
+  {
+    "id": 89,
+    "name": "ELMAFARM",
+    "address": "Str. ALEXANDRU VAIDA VOIEVOD, Nr. 53-55, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-551010"
+  },
+  {
+    "id": 90,
+    "name": "ELMAFARM",
+    "address": "Str. VICTOR BABES, Nr. 35, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-591812"
+  },
+  {
+    "id": 91,
+    "name": "ELMAFARM THE OFFICE",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 77, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-531010"
+  },
+  {
+    "id": 92,
+    "name": "EUROPA CONFLOREA",
+    "address": "Str. BUCEGI, Nr. 11, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-421119"
+  },
+  {
+    "id": 93,
+    "name": "FACULTAS PLUS",
+    "address": "Str. DETUNATA, Nr. 1, Ap. XIV, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-554244"
+  },
+  {
+    "id": 94,
+    "name": "FACULTAS PLUS",
+    "address": "Str. DAMBOVITEI, Nr. 47, Ap. 65, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-410028"
+  },
+  {
+    "id": 95,
+    "name": "FARMACIA ALMA ",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. 25-26, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-530268"
+  },
+  {
+    "id": 96,
+    "name": "FARMACIA ALMA 3",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 4, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-504268"
+  },
+  {
+    "id": 97,
+    "name": "FARMACIA ASMEDICA IMPORT EXPORT",
+    "address": "Str. SEPTIMIU ALBINI, Nr. 109, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-557746"
+  },
+  {
+    "id": 98,
+    "name": "FARMACIA ASMEDICA IMPORT EXPORT",
+    "address": "Str. AUREL VLAICU, Nr. 3, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-599667"
+  },
+  {
+    "id": 99,
+    "name": "FARMACIA BELLADONNA 119",
+    "address": "Str. B-DUL C-TIN BRANCUSI, Nr. 154, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0759-032119"
+  },
+  {
+    "id": 100,
+    "name": "FARMACIA CAMEEA",
+    "address": "Str. AUREL VLAICU, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0732-145576"
+  },
+  {
+    "id": 101,
+    "name": "FARMACIA CLINICII MEDISPROF",
+    "address": "Str. Piata 1 Mai, Nr. 3, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0751274635"
+  },
+  {
+    "id": 102,
+    "name": "FARMACIA CORAL",
+    "address": "Str. NICOLAE TITULESCU, Nr. 109, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-418644"
+  },
+  {
+    "id": 103,
+    "name": "FARMACIA DIANA PLUS",
+    "address": "Str. P-TA GARII, Nr. 4-5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-484046"
+  },
+  {
+    "id": 104,
+    "name": "FARMACIA GALENUS IMPORT EXPORT",
+    "address": "Str. CALEA MOTILOR, Nr. 55-57, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-595418"
+  },
+  {
+    "id": 105,
+    "name": "FARMACIA GRIGORESCU",
+    "address": "Str. ALEXANDRU VLAHUTA, Nr. 50, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-420915"
+  },
+  {
+    "id": 106,
+    "name": "FARMACIA Nr. 89",
+    "address": "Str. IULIU HATIEGANU, Nr. 11, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-597652"
+  },
+  {
+    "id": 107,
+    "name": "FARMACIA OBSERVATOR",
+    "address": "Str. OBSERVATORULUI, Nr. 7, Ap. 22, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-438628"
+  },
+  {
+    "id": 108,
+    "name": "FARMACIA OMNIA",
+    "address": "Str. NICOLAE TITULESCU, Nr. 163, Ap. 33, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-414421"
+  },
+  {
+    "id": 109,
+    "name": "FARMACIA PANACEEA",
+    "address": "Str. DONATH, Nr. 15, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-420884"
+  },
+  {
+    "id": 110,
+    "name": "FARMACIA RICHTER",
+    "address": "Str. TRAIAN MOSOIU, Nr. 24, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-598320"
+  },
+  {
+    "id": 111,
+    "name": "FARMACIA RICHTER",
+    "address": "Str. DAMBOVITEI, Nr. 49, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-461020"
+  },
+  {
+    "id": 112,
+    "name": "FARMACIA RICHTER",
+    "address": "Str. VICTOR BABES, Nr. 18, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-449838"
+  },
+  {
+    "id": 113,
+    "name": "FARMACIA RICHTER",
+    "address": "Str. P-TA UNIRII, Nr. 10, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-417489"
+  },
+  {
+    "id": 114,
+    "name": "FARMACIA SPITALULUI MILITAR DE URGENTA ",
+    "address": "Str. G-RAL TRAIAN MOSOIU, Nr. 22, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 115,
+    "name": "FARMACIA TESA",
+    "address": "Str. ALEEA DETUNATA, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0374-039068, 0725-499618"
+  },
+  {
+    "id": 116,
+    "name": "FARMACIA TESA",
+    "address": "Str. PETRU MAIOR, Nr. 6-8, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0725-499619, 0264-236200"
+  },
+  {
+    "id": 117,
+    "name": "FARMACIA TESA",
+    "address": "Str. FANTANELE, Nr. 7, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0725-449617"
+  },
+  {
+    "id": 118,
+    "name": "FARMACIA TOMA",
+    "address": "Str. AUREL VLAICU, Nr. 15, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-424708"
+  },
+  {
+    "id": 119,
+    "name": "FARMACIA VINCA",
+    "address": "Str. P-TA MARASTI, Bl. 13, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-419363"
+  },
+  {
+    "id": 120,
+    "name": "FARMACIE ",
+    "address": "Str. ION MESTER SI IZLAZULUI, Nr. FN, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-457684"
+  },
+  {
+    "id": 121,
+    "name": "FARMACIE DE CIRCUIT INCHIS",
+    "address": "Str. TRAIAN MOŞOIU, Nr. 22, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-403401"
+  },
+  {
+    "id": 122,
+    "name": "FARMACIILE RETETA",
+    "address": "Str. FABRICII, Nr. 4, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0748-889233"
+  },
+  {
+    "id": 123,
+    "name": "FARMADEX",
+    "address": "Str. HERCULANE, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-414961"
+  },
+  {
+    "id": 124,
+    "name": "FARMA ZEA",
+    "address": "Str. DUNARII, Nr. 51, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-418978"
+  },
+  {
+    "id": 125,
+    "name": "FARMEDICA",
+    "address": "Str. CALEA BACIULUI, Nr. 27, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-435186"
+  },
+  {
+    "id": 126,
+    "name": "GAMA FARM",
+    "address": "Str. MEHEDINTI, Nr. 7, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-423048"
+  },
+  {
+    "id": 127,
+    "name": "GEDEON RICHTER 1",
+    "address": "Str. MOTILOR, Nr. 110, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-417489"
+  },
+  {
+    "id": 128,
+    "name": "GEDEON RICHTER 10",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. 32, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-432656"
+  },
+  {
+    "id": 129,
+    "name": "GEDEON RICHTER 11",
+    "address": "Str. FABRICII, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-416071"
+  },
+  {
+    "id": 130,
+    "name": "GEDEON RICHTER 12",
+    "address": "Str. N. PASCALY, Nr. 7, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-449609"
+  },
+  {
+    "id": 131,
+    "name": "GEDEON RICHTER 13",
+    "address": "Str. BUCEGI, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-561827"
+  },
+  {
+    "id": 132,
+    "name": "GEDEON RICHTER 2",
+    "address": "Str. P-TA UNIRII, Nr. 27, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-590488"
+  },
+  {
+    "id": 133,
+    "name": "GEDEON RICHTER 3",
+    "address": "Str. DAMBOVITEI, Nr. 49, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-461020"
+  },
+  {
+    "id": 134,
+    "name": "GEDEON RICHTER 4",
+    "address": "Str. TRAIAN MOŞOIU, Nr. 24, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-598320"
+  },
+  {
+    "id": 135,
+    "name": "GEDEON RICHTER 5",
+    "address": "Str. REGELE FERDINAND, Nr. 37, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-595854"
+  },
+  {
+    "id": 136,
+    "name": "GEDEON RICHTER 6",
+    "address": "Str. VICTOR BABES, Nr. 18, Ap. 2, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-449838"
+  },
+  {
+    "id": 137,
+    "name": "GEDEON RICHTER 7",
+    "address": "Str. EROILOR, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-594606"
+  },
+  {
+    "id": 138,
+    "name": "GEDEON RICHTER 8",
+    "address": "Str. HOREA, Nr. 83-85, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-450135"
+  },
+  {
+    "id": 139,
+    "name": "GEDEON RICHTER 9",
+    "address": "Str. REGELE FERDINAND, Nr. 19, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-592414"
+  },
+  {
+    "id": 140,
+    "name": "GENTIANA FARMACIA",
+    "address": "Str. LOUIS PASTEUR, Nr. 79, Ap. 51, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-438898"
+  },
+  {
+    "id": 141,
+    "name": "HEBE PHARM ",
+    "address": "Str. MOTILOR, Nr. 143-145, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-533350"
+  },
+  {
+    "id": 142,
+    "name": "HEDERA FARMACIE",
+    "address": "Str. REGELE FERDINAND, Nr. 36, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-530077"
+  },
+  {
+    "id": 143,
+    "name": "HEL NET FARMA",
+    "address": "Str. FANTANELE, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0364-439019"
+  },
+  {
+    "id": 144,
+    "name": "HELP NET 115",
+    "address": "Str. FANTANELE, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-410244"
+  },
+  {
+    "id": 145,
+    "name": "HELP NET FARMA",
+    "address": "Str. B-DUL 1 DECEMBRIE 1918, Nr. 142, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-485570"
+  },
+  {
+    "id": 146,
+    "name": "HELP NET FARMA",
+    "address": "Str. P-TA MARASTI, Nr. FN , CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0364-409648"
+  },
+  {
+    "id": 147,
+    "name": "HERA FARMACIE",
+    "address": "Str. GIORDANO BRUNO, Nr. 13, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-435216"
+  },
+  {
+    "id": 148,
+    "name": "HERBA FARM",
+    "address": "Str. FANTANELE, Nr. 5, Bl. R2, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-582112"
+  },
+  {
+    "id": 149,
+    "name": "HYPERICUM",
+    "address": "Str. VIILOR, Nr. 52, Ap. 31, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-520588"
+  },
+  {
+    "id": 150,
+    "name": "INFOFARM",
+    "address": "Str. OBSERVATORULUI, Nr. FN, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-438475"
+  },
+  {
+    "id": 151,
+    "name": "INFOFARM REGIONALA",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 68, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-445163"
+  },
+  {
+    "id": 152,
+    "name": "KAMILL FARMACIE",
+    "address": "Str. MOISE NICOARA, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-440490"
+  },
+  {
+    "id": 153,
+    "name": "LIRICA FARM",
+    "address": "Str. MEHEDINTI, Nr. 82, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0748-018603"
+  },
+  {
+    "id": 154,
+    "name": "MATIA IMPEX",
+    "address": "Str. LAPUSULUI, Nr. 39, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264433306"
+  },
+  {
+    "id": 155,
+    "name": "MYRIAM PHARMA",
+    "address": "Str. DAMBOVITEI, Nr. 47, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-459666"
+  },
+  {
+    "id": 156,
+    "name": "MYRIAM PHARMA",
+    "address": "Str. ION MESTER, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-459666"
+  },
+  {
+    "id": 157,
+    "name": "NAPOFARM",
+    "address": "Str. Creanga, Nr. 8, Ap. 2, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0733-917131"
+  },
+  {
+    "id": 158,
+    "name": "NAPOFARM",
+    "address": "Str. CLINICILOR, Nr. 10, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-236325"
+  },
+  {
+    "id": 159,
+    "name": "NAPOFARM",
+    "address": "Str. CROITORILOR, Nr. 10, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0364-730556"
+  },
+  {
+    "id": 160,
+    "name": "PACIENŢA FARM",
+    "address": "Str. G-RAL EREMIA GRIGORESCU, Nr. 67, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-420948"
+  },
+  {
+    "id": 161,
+    "name": "PHARMALIFE MED",
+    "address": "Str. MOTILOR, Nr. 32, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0748475023"
+  },
+  {
+    "id": 162,
+    "name": "POLISANO VIILOR",
+    "address": "Str. VIILOR , Nr. 52B, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0747-124798"
+  },
+  {
+    "id": 163,
+    "name": "REMEDIUM FARM",
+    "address": "Str. CLABUCET, Nr. 5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 164,
+    "name": "REMEDIUM FARM",
+    "address": "Str. CALEA DOROBANTILOR, Nr. FN, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-413640"
+  },
+  {
+    "id": 165,
+    "name": "REMEDIUM FARM",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 129, Ap. 28, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-413859"
+  },
+  {
+    "id": 166,
+    "name": "REMEDIUM FARM",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 131, Ap. 160, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-412901"
+  },
+  {
+    "id": 167,
+    "name": "REMEDIUM FARM",
+    "address": "Str. IULIU MANIU, Nr. 42, Ap. 16, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-595846"
+  },
+  {
+    "id": 168,
+    "name": "REMEDIUM FARM",
+    "address": "Str. G-RAL TRAIAN MOSOIU, Nr. 46, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-333435"
+  },
+  {
+    "id": 169,
+    "name": "REMEDIUM FARM",
+    "address": "Str. ONISIFOR GHIBU, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-424199"
+  },
+  {
+    "id": 170,
+    "name": "RODAFARM",
+    "address": "Str. CALEA DOROBANTILOR, Nr. 99-101, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-413201"
+  },
+  {
+    "id": 171,
+    "name": "ROELIFARM",
+    "address": "Str. REPUBLICII, Nr. 109, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-450229"
+  },
+  {
+    "id": 172,
+    "name": "ROOA IMPEX",
+    "address": "Str. BUCEGI, Nr. 13-15, Ap. 4A, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-533110"
+  },
+  {
+    "id": 173,
+    "name": "RUSAV FARMACIE",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 131-135, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-413366"
+  },
+  {
+    "id": 174,
+    "name": "SANANTON",
+    "address": "Str. BISTRITEI, Nr. 83, Ap. I/1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-553053"
+  },
+  {
+    "id": 175,
+    "name": "SANLIV",
+    "address": "Str. CALEA FLOREŞTI, Nr. 60, Ap. 138, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-424024"
+  },
+  {
+    "id": 176,
+    "name": "SC VIVAFARM SRL (STUDIO PLUS) ",
+    "address": "Str. BUCEGI, Nr. 7, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-588806"
+  },
+  {
+    "id": 177,
+    "name": "SENSIBLU",
+    "address": "Str. P-TA CIPARIU, Nr. 9, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-450029"
+  },
+  {
+    "id": 178,
+    "name": "SENSIBLU",
+    "address": "Str. CAMPULUI, Nr. 9-19, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-486353"
+  },
+  {
+    "id": 179,
+    "name": "SENSIBLU",
+    "address": "Str. B-DUL MUNCII, Nr. 1-15, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-535352"
+  },
+  {
+    "id": 180,
+    "name": "SENSIBLU",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. 14-20, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-484747"
+  },
+  {
+    "id": 181,
+    "name": "SENSIBLU",
+    "address": "Str. FABRICII, Nr. 12, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-410668"
+  },
+  {
+    "id": 182,
+    "name": "SENSIBLU",
+    "address": "Str. P-TA UNIRII, Nr. 4-5, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0745-143968"
+  },
+  {
+    "id": 183,
+    "name": "SENSIBLU",
+    "address": "Str. CLINICILOR, Nr. 8, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-439087"
+  },
+  {
+    "id": 184,
+    "name": "SENSIBLU",
+    "address": "Str. BUCEGI, Nr. 19, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-805659"
+  },
+  {
+    "id": 185,
+    "name": "SENSIBLU",
+    "address": "Str. SAMUIL MICU, Nr. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-591166"
+  },
+  {
+    "id": 186,
+    "name": "SENSIBLU",
+    "address": "Str. B-DUL 21 DECEMBRIE 1989, Nr. 135, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-413976"
+  },
+  {
+    "id": 187,
+    "name": "SENSIBLU CLUJ 6",
+    "address": "Str. CALEA FLOREŞTI, Nr. 77, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0720022764"
+  },
+  {
+    "id": 188,
+    "name": "SFANTUL SAVA",
+    "address": "Str. MOTILOR, Nr. 51, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-433755"
+  },
+  {
+    "id": 189,
+    "name": "SIBPHARMAMED",
+    "address": "Str. B-DUL EROILOR, Nr. 46, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-450021"
+  },
+  {
+    "id": 190,
+    "name": "SIMOFARM",
+    "address": "Str. AUREL VLAICU, Nr. 42, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0364-885187"
+  },
+  {
+    "id": 191,
+    "name": "SPERANTA NAPOCA",
+    "address": "Str. LOUIS PASTEUR, Nr. 2, Ap. 1, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 192,
+    "name": "VEROLI FARMACIE",
+    "address": "Str. LOUIS PASTEUR, Nr. 75, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-453344"
+  },
+  {
+    "id": 193,
+    "name": "VIAFARM",
+    "address": "Str. P-TA MIHAI VITEAZU, Nr. FN, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-434182"
+  },
+  {
+    "id": 194,
+    "name": "VICTOR BABES",
+    "address": "Str. CALEA MĂNĂŞTUR, Nr. 76, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-591361"
+  },
+  {
+    "id": 195,
+    "name": "VIOFARM IMPEX",
+    "address": "Str. OASULUI, Nr. 86-90, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0364-114836"
+  },
+  {
+    "id": 196,
+    "name": "VISCUM PHARM",
+    "address": "Str. FANTANELE, Nr. 7, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-582709"
+  },
+  {
+    "id": 197,
+    "name": "VIVAFARM",
+    "address": "Str. IZLAZULUI, Nr. 12, Ap. 75, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-421036"
+  },
+  {
+    "id": 198,
+    "name": "VIVAFARM (MIHON)",
+    "address": "Str. 21 Decembrie 1989, Nr. 133, Ap. 118, CLUJ-NAPOCA, jud. CLUJ",
+    "city": "CLUJ-NAPOCA",
+    "county": "CLUJ",
+    "phone": "0264-552254"
+  },
+  {
+    "id": 199,
+    "name": "REMEDIUM 5 COJOCNA",
+    "address": "Str. REPUBLICII, Nr. 99, COJOCNA, jud. CLUJ",
+    "city": "COJOCNA",
+    "county": "CLUJ",
+    "phone": "0264-234031"
+  },
+  {
+    "id": 200,
+    "name": "LA TUYAFARM",
+    "address": "Str. PRINCIPALA, Nr. 219, CORUSU, jud. CLUJ",
+    "city": "CORUSU",
+    "county": "CLUJ",
+    "phone": "0264701107"
+  },
+  {
+    "id": 201,
+    "name": "PANITEKA",
+    "address": "Str. SIMION BARNUTIU, Nr. 38A, CUZDRIOARA, jud. CLUJ",
+    "city": "CUZDRIOARA",
+    "county": "CLUJ",
+    "phone": "0744-587758"
+  },
+  {
+    "id": 202,
+    "name": "EUROPA CONFLOREA",
+    "address": "Str. PRINCIPALA, Nr. 312, DABACA, jud. CLUJ",
+    "city": "DABACA",
+    "county": "CLUJ",
+    "phone": "0264-355719"
+  },
+  {
+    "id": 203,
+    "name": "AD SANITATEM FARM",
+    "address": "Str. P-TA BOBALNA, Nr. 11, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-215577"
+  },
+  {
+    "id": 204,
+    "name": "CATENA FARMACIE",
+    "address": "Str. DOBROGEANU GHEREA, Nr. 20, Bl. J, Ap. 11, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-215337"
+  },
+  {
+    "id": 205,
+    "name": "CATENA FARMACIE",
+    "address": "Str. MIRCEA CEL BATRAN, Nr. 2, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-213543"
+  },
+  {
+    "id": 206,
+    "name": "DELADI FARM",
+    "address": "Str. P-TA 16 FEBRUARIE, Nr. 3, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-220288"
+  },
+  {
+    "id": 207,
+    "name": "FARMACIA DIANA PLUS",
+    "address": "Str. 1 MAI, Nr. 15, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-212487"
+  },
+  {
+    "id": 208,
+    "name": "LAVANDULE FARMIMPEX",
+    "address": "Str. DOBROGEANU GHEREA, Nr. 6, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-213955"
+  },
+  {
+    "id": 209,
+    "name": "MD FARMA",
+    "address": "Str. UNIRII, Nr. 1, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-221151"
+  },
+  {
+    "id": 210,
+    "name": "MINERVA FARMACIE",
+    "address": "Str. P-TA BOBALNA, Nr. 7, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-213073"
+  },
+  {
+    "id": 211,
+    "name": "MISFARM",
+    "address": "Str. 1 MAI, Nr. 27, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-214832"
+  },
+  {
+    "id": 212,
+    "name": "PANITEKA",
+    "address": "Str. P-TA BOBALNA, Nr. 17, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0754-663009"
+  },
+  {
+    "id": 213,
+    "name": "RADEX",
+    "address": "Str. REGINA MARIA, Nr. 15A, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-211675"
+  },
+  {
+    "id": 214,
+    "name": "SANOFARM",
+    "address": "Str. 1 MAI, Nr. 25, DEJ, jud. CLUJ",
+    "city": "DEJ",
+    "county": "CLUJ",
+    "phone": "0264-213280"
+  },
+  {
+    "id": 215,
+    "name": "PAN ALBATROS",
+    "address": ", Nr. 125, FELEACU, jud. CLUJ",
+    "city": "FELEACU",
+    "county": "CLUJ",
+    "phone": "0264-284615"
+  },
+  {
+    "id": 216,
+    "name": "PANITEKA - FIZESU GHERLII",
+    "address": "Str. PRINCIPALA, Nr. 420, FIZESU GHERLII, jud. CLUJ",
+    "city": "FIZESU GHERLII",
+    "county": "CLUJ",
+    "phone": "0744-587758"
+  },
+  {
+    "id": 217,
+    "name": "ARLANDA FARM",
+    "address": "Str. FLORILOR, Nr. 274, Ap. 1, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0364-566533"
+  },
+  {
+    "id": 218,
+    "name": "ARTEMIS",
+    "address": "Str. PORII, Nr. 148, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264576438"
+  },
+  {
+    "id": 219,
+    "name": "AVPFARM",
+    "address": "Str. URUSAGULUI, Nr. 20, Sc. 1, Ap. 15, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0364435808"
+  },
+  {
+    "id": 220,
+    "name": "CLADONIA FARM",
+    "address": "Str. EROILOR, Nr. 180, Bl. C2, Sc. 2, Ap. 15, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264576577"
+  },
+  {
+    "id": 221,
+    "name": "FARMACIA GIRO",
+    "address": "Str. AVRAM IANCU, Nr. 205, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0364-100460"
+  },
+  {
+    "id": 222,
+    "name": "FARMAMED",
+    "address": "Str. MUZEUL APEI, Nr. 11, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264-486669"
+  },
+  {
+    "id": 223,
+    "name": "GENESCREEN",
+    "address": "Str. VALEA GÎRBOULUI, Nr. 1, Ap. 68, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0364-111643"
+  },
+  {
+    "id": 224,
+    "name": "HERA HEALTH SOLUTIONS",
+    "address": "Str. AVRAM IANCU, Nr. 486E, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0722116773"
+  },
+  {
+    "id": 225,
+    "name": "HORFARM FARMACIE",
+    "address": "Str. HOREA, Nr. 57A, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264267245"
+  },
+  {
+    "id": 226,
+    "name": "HORFARM FARMACIE",
+    "address": "Str. GH. DOJA , Nr. 1, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264265254"
+  },
+  {
+    "id": 227,
+    "name": "HYGIEIA",
+    "address": "Str. CARDINAL IULIU HOSSU, Nr. 1, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0740-417530"
+  },
+  {
+    "id": 228,
+    "name": "MELIO FARM",
+    "address": "Str. TAUTULUI, Nr. 89, Ap. 4, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0744144715"
+  },
+  {
+    "id": 229,
+    "name": "PICAFARM",
+    "address": "Str. AVRAM IANCU, Nr. 137, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264-266220"
+  },
+  {
+    "id": 230,
+    "name": "SC ETERRIS IMPEX SRL",
+    "address": "Str. AVRAM IANCU, Nr. 278, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264265829"
+  },
+  {
+    "id": 231,
+    "name": "SC FARMACIA GALENICA GABRIELA SRL",
+    "address": "Str. EROILOR, Nr. 19, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264558085"
+  },
+  {
+    "id": 232,
+    "name": "SENSIBLU",
+    "address": "Str. AVRAM IANCU, Nr. 492-500, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0372-708883"
+  },
+  {
+    "id": 233,
+    "name": "TERRAFARM EXIM",
+    "address": "Str. AVRAM IANCU, Nr. 492-500, FLORESTI, jud. CLUJ",
+    "city": "FLORESTI",
+    "county": "CLUJ",
+    "phone": "0264-504628"
+  },
+  {
+    "id": 234,
+    "name": "CARDIO FARM",
+    "address": ", Nr. 2/A, FODORA, jud. CLUJ",
+    "city": "FODORA",
+    "county": "CLUJ",
+    "phone": "0372713627"
+  },
+  {
+    "id": 235,
+    "name": "VITISFARMIOANA",
+    "address": ", Nr. 422, FRATA, jud. CLUJ",
+    "city": "FRATA",
+    "county": "CLUJ",
+    "phone": "0264-282487"
+  },
+  {
+    "id": 236,
+    "name": "REMEDIUM FARM",
+    "address": "Str. PRINCIPALA, Nr. 174, GARBAU, jud. CLUJ",
+    "city": "GARBAU",
+    "county": "CLUJ",
+    "phone": "0264-283754"
+  },
+  {
+    "id": 237,
+    "name": "KANKALIN",
+    "address": "Str. PRINCIPALA, Nr. 209, GHEORGHIENI, jud. CLUJ",
+    "city": "GHEORGHIENI",
+    "county": "CLUJ",
+    "phone": "0264279434"
+  },
+  {
+    "id": 238,
+    "name": "DELADI FARM",
+    "address": "Str. AVRAM IANCU, Nr. 4, Ap. 15, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-242233"
+  },
+  {
+    "id": 239,
+    "name": "DELADI FARM",
+    "address": "Str. CLUJULUI, Nr. 2A, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-242445"
+  },
+  {
+    "id": 240,
+    "name": "DONA 212",
+    "address": "Str. DRAGOS VODA, Nr. 2, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0372-407212"
+  },
+  {
+    "id": 241,
+    "name": "FARMAVET IMPEX",
+    "address": "Str. ALEEA FRASINULUI, Nr. 1, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-242227"
+  },
+  {
+    "id": 242,
+    "name": "GEDEON RICHTER 14",
+    "address": "Str. PIATA UNIRII, Nr. 5, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-241488"
+  },
+  {
+    "id": 243,
+    "name": "GEDEON RICHTER 15",
+    "address": "Str. LIBERTATII, Nr. 12, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-241975"
+  },
+  {
+    "id": 244,
+    "name": "INTERPHARM PLUS (CATENA)",
+    "address": "Str. LIVIU REBREANU, Nr. 8, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-241628"
+  },
+  {
+    "id": 245,
+    "name": "MONALISA FARM",
+    "address": "Str. LIVIU REBREANU, Nr. 26, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0264-248565"
+  },
+  {
+    "id": 246,
+    "name": "SANDINIA FARM",
+    "address": "Str. MIHAI EMINESCU, Nr. 1, GHERLA, jud. CLUJ",
+    "city": "GHERLA",
+    "county": "CLUJ",
+    "phone": "0364-407132"
+  },
+  {
+    "id": 247,
+    "name": "REMEDIUM FARM",
+    "address": "Str. PRINCIPALA, Nr. 1-3, GILAU, jud. CLUJ",
+    "city": "GILAU",
+    "county": "CLUJ",
+    "phone": "0264-371228"
+  },
+  {
+    "id": 248,
+    "name": "VELFARM",
+    "address": "Str. PRINCIPALA, Nr. 731, GILAU, jud. CLUJ",
+    "city": "GILAU",
+    "county": "CLUJ",
+    "phone": "0264-371797"
+  },
+  {
+    "id": 249,
+    "name": "VERALINA PRODEXIM",
+    "address": "Str. PRINCIPALA, Nr. 393, GILAU, jud. CLUJ",
+    "city": "GILAU",
+    "county": "CLUJ",
+    "phone": "0264-371421"
+  },
+  {
+    "id": 250,
+    "name": "BIOS IMPORT-EXPORT",
+    "address": "Str. HOREA, Nr. 30-32, HUEDIN, jud. CLUJ",
+    "city": "HUEDIN",
+    "county": "CLUJ",
+    "phone": "0264-354333"
+  },
+  {
+    "id": 251,
+    "name": "DELADI FARM",
+    "address": "Str. HOREA, Nr. 2, HUEDIN, jud. CLUJ",
+    "city": "HUEDIN",
+    "county": "CLUJ",
+    "phone": "0264-351067"
+  },
+  {
+    "id": 252,
+    "name": "MEDIAFARM PLUS",
+    "address": "Str. P-TA REPUBLICII, Nr. 39, HUEDIN, jud. CLUJ",
+    "city": "HUEDIN",
+    "county": "CLUJ",
+    "phone": "0264-354104"
+  },
+  {
+    "id": 253,
+    "name": "MP PLANT PHARMA IMPEX",
+    "address": "Str. REPUBLICII, Nr. 8, Ap. 105, HUEDIN, jud. CLUJ",
+    "city": "HUEDIN",
+    "county": "CLUJ",
+    "phone": "0264-351347"
+  },
+  {
+    "id": 254,
+    "name": "ADA PHARM",
+    "address": "Str. PRINCIPALA, Nr. 285, IARA, jud. CLUJ",
+    "city": "IARA",
+    "county": "CLUJ",
+    "phone": "0264333230"
+  },
+  {
+    "id": 255,
+    "name": "PEDIFARM",
+    "address": "Str. PRINCIPALA, Nr. 217, IARA, jud. CLUJ",
+    "city": "IARA",
+    "county": "CLUJ",
+    "phone": "0264333021"
+  },
+  {
+    "id": 256,
+    "name": "DELFARM",
+    "address": "Str. PRINCIPALA, Nr. 224, ICLOD, jud. CLUJ",
+    "city": "ICLOD",
+    "county": "CLUJ",
+    "phone": "0264263364"
+  },
+  {
+    "id": 257,
+    "name": "ESTIA FARM",
+    "address": "Str. PRINCIPALA, Nr. 505, ICLOD, jud. CLUJ",
+    "city": "ICLOD",
+    "county": "CLUJ",
+    "phone": "0722699231"
+  },
+  {
+    "id": 258,
+    "name": "HIBISCUS PHARM",
+    "address": "Str. PRINCIPALA, Nr. 386, ICLOD, jud. CLUJ",
+    "city": "ICLOD",
+    "county": "CLUJ",
+    "phone": "0264263288"
+  },
+  {
+    "id": 259,
+    "name": "SC FARMACIA CLEMATIS SRL",
+    "address": "Str. PRINCIPALA, Nr. 239A, JUCU DE SUS, jud. CLUJ",
+    "city": "JUCU DE SUS",
+    "county": "CLUJ",
+    "phone": "0744393699"
+  },
+  {
+    "id": 260,
+    "name": "FLAVINA",
+    "address": ", Nr. 45, LUJERDIU, jud. CLUJ",
+    "city": "LUJERDIU",
+    "county": "CLUJ",
+    "phone": "0264288358"
+  },
+  {
+    "id": 261,
+    "name": "HAWASH BILAL",
+    "address": "Str. Principala, Nr. 735, LUNA, jud. CLUJ",
+    "city": "LUNA",
+    "county": "CLUJ",
+    "phone": "0742-964123"
+  },
+  {
+    "id": 262,
+    "name": "SYC BIAFARM",
+    "address": "Str. PRINCIPALA, Nr. 720, LUNA, jud. CLUJ",
+    "city": "LUNA",
+    "county": "CLUJ",
+    "phone": "0264-326074"
+  },
+  {
+    "id": 263,
+    "name": "HORFARM FARMACIE",
+    "address": "Str. PRINCIPALA, Nr. 735, LUNA DE SUS, jud. CLUJ",
+    "city": "LUNA DE SUS",
+    "county": "CLUJ",
+    "phone": "0264266860"
+  },
+  {
+    "id": 264,
+    "name": "DELFARM",
+    "address": "Str. Ortodoxa, Nr. 272, MIHAI VITEAZU, jud. CLUJ",
+    "city": "MIHAI VITEAZU",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 265,
+    "name": "HAWASH BILAL",
+    "address": "Str. PRINCIPALA, Nr. 882, MIHAI VITEAZU, jud. CLUJ",
+    "city": "MIHAI VITEAZU",
+    "county": "CLUJ",
+    "phone": "0264329116"
+  },
+  {
+    "id": 266,
+    "name": "SYC BIAFARM",
+    "address": "Str. Principala, Nr. 475A, MIHAI VITEAZU, jud. CLUJ",
+    "city": "MIHAI VITEAZU",
+    "county": "CLUJ",
+    "phone": "0756989190"
+  },
+  {
+    "id": 267,
+    "name": "MEDLINE FARM",
+    "address": "Str. PRINCIPALA, Nr. 92, MOCIU, jud. CLUJ",
+    "city": "MOCIU",
+    "county": "CLUJ",
+    "phone": "0753313293"
+  },
+  {
+    "id": 268,
+    "name": "MOCIU FARMACIE",
+    "address": "Str. PRINCIPALA, Nr. 97, MOCIU, jud. CLUJ",
+    "city": "MOCIU",
+    "county": "CLUJ",
+    "phone": "0264-235214"
+  },
+  {
+    "id": 269,
+    "name": "NATURAL PULS",
+    "address": "Str. PRINCIPALA, Nr. 59, NEGRENI, jud. CLUJ",
+    "city": "NEGRENI",
+    "county": "CLUJ",
+    "phone": "0740-218876"
+  },
+  {
+    "id": 270,
+    "name": "VIAFARM DOI",
+    "address": ", Nr. 90, PANTICEU, jud. CLUJ",
+    "city": "PANTICEU",
+    "county": "CLUJ",
+    "phone": "0264-227725"
+  },
+  {
+    "id": 271,
+    "name": "DIAFARM",
+    "address": "Str. PRINCIPALA, Nr. 268, POIENI, jud. CLUJ",
+    "city": "POIENI",
+    "county": "CLUJ",
+    "phone": "0264255184"
+  },
+  {
+    "id": 272,
+    "name": "ROVAL PLANT",
+    "address": ", Nr. 27, POIENI, jud. CLUJ",
+    "city": "POIENI",
+    "county": "CLUJ",
+    "phone": "0264-255159"
+  },
+  {
+    "id": 273,
+    "name": "IULFARM",
+    "address": "Str. Principala, Nr. 481, RASCRUCI, jud. CLUJ",
+    "city": "RASCRUCI",
+    "county": "CLUJ",
+    "phone": "0264358819"
+  },
+  {
+    "id": 274,
+    "name": "ARTFARM",
+    "address": "Str. PRINCIPALA, Nr. 324, RISCA, jud. CLUJ",
+    "city": "RISCA",
+    "county": "CLUJ",
+    "phone": "0264-226628"
+  },
+  {
+    "id": 275,
+    "name": "SC ELIFARM SRL",
+    "address": ", Nr. 64, SANCRAIU, jud. CLUJ",
+    "city": "SANCRAIU",
+    "county": "CLUJ",
+    "phone": "0264257669"
+  },
+  {
+    "id": 276,
+    "name": "PEDICUTA FARM",
+    "address": "Str. 1 MAI, Nr. 14, SANNICOARA, jud. CLUJ",
+    "city": "SANNICOARA",
+    "county": "CLUJ",
+    "phone": "0264-232888"
+  },
+  {
+    "id": 277,
+    "name": "ALIPHARM",
+    "address": "Str. PRINCIPALA, Nr. 346, SAVADISLA, jud. CLUJ",
+    "city": "SAVADISLA",
+    "county": "CLUJ",
+    "phone": "0374071459"
+  },
+  {
+    "id": 278,
+    "name": "GEDEON RICHTER 17",
+    "address": "Str. PRINCIPALA, Nr. 371, SAVADISLA, jud. CLUJ",
+    "city": "SAVADISLA",
+    "county": "CLUJ",
+    "phone": "0264-374400"
+  },
+  {
+    "id": 279,
+    "name": "GINCO PHARM",
+    "address": "Str. a III-a, Nr. 332, SIC, jud. CLUJ",
+    "city": "SIC",
+    "county": "CLUJ",
+    "phone": "0264228666"
+  },
+  {
+    "id": 280,
+    "name": "TIMFARM",
+    "address": ", Nr. 190, SOMESU RECE, jud. CLUJ",
+    "city": "SOMESU RECE",
+    "county": "CLUJ",
+    "phone": "0264-372975"
+  },
+  {
+    "id": 281,
+    "name": "LUCAFARM",
+    "address": "Str. FS, Nr. 312, SUATU, jud. CLUJ",
+    "city": "SUATU",
+    "county": "CLUJ",
+    "phone": "0264-281781"
+  },
+  {
+    "id": 282,
+    "name": "HAWASH FARM",
+    "address": ", Nr. 437, TRITENII DE JOS, jud. CLUJ",
+    "city": "TRITENII DE JOS",
+    "county": "CLUJ",
+    "phone": "0264285568"
+  },
+  {
+    "id": 283,
+    "name": "ADRIAMED IMPEX",
+    "address": "Str. AVRAM IANCU, Nr. 59, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-312672"
+  },
+  {
+    "id": 284,
+    "name": "DONA 123",
+    "address": "Str. CALEA VICTORIEI, Nr. 100, Bl. 120, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-315904"
+  },
+  {
+    "id": 285,
+    "name": "DUCFARM",
+    "address": "Str. REPUBLICII, Nr. 13, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-434479"
+  },
+  {
+    "id": 286,
+    "name": "ECOFARMACIA NETWORK",
+    "address": "Str. CALEA VICTORIEI, Nr. 102-104, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-321902"
+  },
+  {
+    "id": 287,
+    "name": "ESTIA FARM",
+    "address": "Str. LIANELOR, Nr. 3, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0722699231"
+  },
+  {
+    "id": 288,
+    "name": "FACULTAS PLUS",
+    "address": "Str. GHEORGHE LAZAR, Nr. 6, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-283047"
+  },
+  {
+    "id": 289,
+    "name": "FARMACARMEN",
+    "address": "Str. ANDREI MURESANU, Nr. 31, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-315946"
+  },
+  {
+    "id": 290,
+    "name": "FARMACARMEN",
+    "address": "Str. REPUBLICII, Nr. 28, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-315946"
+  },
+  {
+    "id": 291,
+    "name": "FARMACIA BELLADONNA 102",
+    "address": "Str. PIATA ROMANA, Nr. 15, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0759-032102"
+  },
+  {
+    "id": 292,
+    "name": "FARMACIE DE CIRCUIT INCHIS",
+    "address": "Str. A. MURESANU, Nr. 12-16, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 293,
+    "name": "GALATEEA FARMACIE IMPEX",
+    "address": "Str. LIBERTATII, Nr. 9, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-311261"
+  },
+  {
+    "id": 294,
+    "name": "HUMANITAS FARMACIA",
+    "address": "Str. GHEORGHE LAZAR, Nr. 6, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-313606"
+  },
+  {
+    "id": 295,
+    "name": "MEDEEA FARMACIE DEPOZIT",
+    "address": "Str. RAPSODIEI, Nr. 10, Bl. 5, Ap. 3, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-312342"
+  },
+  {
+    "id": 296,
+    "name": "NERAPIA PLUS",
+    "address": "Str. CALEA VICTORIEI, Nr. 13, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-314364"
+  },
+  {
+    "id": 297,
+    "name": "PHEDRAFARM IMPEX",
+    "address": "Str. NUFERILOR, Nr. 17B, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-314156"
+  },
+  {
+    "id": 298,
+    "name": "REMEDIUM FARM",
+    "address": "Str. LIANELOR, Nr. 1, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": ""
+  },
+  {
+    "id": 299,
+    "name": "RETETA",
+    "address": "Str. CALEA VICTORIEI, Nr. 100, Bl. 120, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0746-217937"
+  },
+  {
+    "id": 300,
+    "name": "RUBIA",
+    "address": "Str. GHEORGHE LAZAR, Nr. 9, Ap. 1, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-315771"
+  },
+  {
+    "id": 301,
+    "name": "SENSIBLU",
+    "address": "Str. CALEA VICTORIEI, Nr. FN, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-317122, 0720022565"
+  },
+  {
+    "id": 302,
+    "name": "SENSIBLU",
+    "address": "Str. REPUBLICII, Nr. 12, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0364-730540"
+  },
+  {
+    "id": 303,
+    "name": "TRAVERTIN (CAMELLIA)",
+    "address": "Str. ANDREI MURESANU, Nr. 18, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-313067"
+  },
+  {
+    "id": 304,
+    "name": "VEROLI FARMACIE",
+    "address": "Str. REPUBLICII, Nr. 23, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-311555"
+  },
+  {
+    "id": 305,
+    "name": "VITAFARM PLUS",
+    "address": "Str. LIANELOR, Nr. 1, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-317767"
+  },
+  {
+    "id": 306,
+    "name": "VITAFARM PLUS",
+    "address": "Str. REPUBLICII, Nr. 30, TURDA, jud. CLUJ",
+    "city": "TURDA",
+    "county": "CLUJ",
+    "phone": "0264-283051"
+  },
+  {
+    "id": 307,
+    "name": "MUSETELUL",
+    "address": "Str. Principala, Nr. 214, TURENI, jud. CLUJ",
+    "city": "TURENI",
+    "county": "CLUJ",
+    "phone": "0756038701"
+  },
+  {
+    "id": 308,
+    "name": "EMINOVA FARM",
+    "address": "Str. PRINCIPALA, Nr. 151, UNGURAS, jud. CLUJ",
+    "city": "UNGURAS",
+    "county": "CLUJ",
+    "phone": "0766698746, 0264224992"
+  },
+  {
+    "id": 309,
+    "name": "PANITEKA",
+    "address": "Str. PRINCIPALA, Nr. 151, UNGURAS, jud. CLUJ",
+    "city": "UNGURAS",
+    "county": "CLUJ",
+    "phone": "0744-587758"
+  },
+  {
+    "id": 310,
+    "name": "ROVAL PLANT",
+    "address": ", Nr. FN, VALEA DRAGANULUI, jud. CLUJ",
+    "city": "VALEA DRAGANULUI",
+    "county": "CLUJ",
+    "phone": "0264-255159"
+  },
+  {
+    "id": 311,
+    "name": "ARNICA",
+    "address": "Str. PRINCIPALA, Nr. 177, VIISOARA, jud. CLUJ",
+    "city": "VIISOARA",
+    "county": "CLUJ",
+    "phone": "0264-327704"
+  },
+  {
+    "id": 312,
+    "name": "HAWASH FARM",
+    "address": ", Nr. 622, VIISOARA, jud. CLUJ",
+    "city": "VIISOARA",
+    "county": "CLUJ",
+    "phone": "0264327896, 0364882176"
+  },
+  {
+    "id": 313,
+    "name": "SYC BIAFARM",
+    "address": ", Nr. 626, VIISOARA, jud. CLUJ",
+    "city": "VIISOARA",
+    "county": "CLUJ",
+    "phone": "0264-327691"
+  }
+]
