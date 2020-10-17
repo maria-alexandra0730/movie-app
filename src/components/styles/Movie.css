@@ -1,0 +1,21 @@
+.movie {
+    background-color: indianred;
+    width: 300px;
+    margin: 15px;
+    border-radius: 4px;
+
+}
+.movie img{
+    max-width: 100%;
+}
+.movie-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+} 
+
+.movie-details h3 {
+    margin: 20px;
+
+}  
