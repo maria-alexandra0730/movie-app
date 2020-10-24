@@ -1,32 +1,65 @@
-import React, { useState, useEffect } from 'react';
-import Movie from './components/Movie';
+import React from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import Home from './components/Home';
+import MoviePage from './components/MoviePage';
+import DetailsPage from './components/DetailsPage';
+
 import './App.css';
 
-const URL_API = "http://localhost:5000/api/v1/movies?per_page=20";
+
 
 function App() {
-  const [ movies, setMovies ] = useState([]);
 
-  // const img_array = [ "angry", "commandments", "duel" ];
-  // const images = img_array.map(img => {
-  //   return <img key={img} src={require(`../img/${img}.png`)} className="img-container" />
-  //   });
 
-  useEffect(() => {
-    fetch(URL_API)
-      .then((res) => res.json())
-      .then((data) => { console.log(data);
-        setMovies(data.data);
-      });
-  }, []);
+  const handleOnSubmit = (e) => {
+    e.preventDefault();
+
+    // fetch(URL_SEARCH + search)
+    //   .then((res) => res.json())
+    //   .then((data) => { console.log(data);
+    //     setMovies(data.data);
+    //   });
+  };
+
+  const handleOnChange = (e) => {
+    // setSearch(e.target.value);
+  }
 
   return (
-    <div className="app-container">
-      {movies.length > 0 && movies.map((movie) => (
-        <Movie key={movie.id} {...movie}/>
-      ))}
-      {/* { images } */}
-    </div>
+    <React.Fragment>
+      <header>
+        <form onSubmit={handleOnSubmit}>
+          <input
+            type="text"
+            className="search-box"
+            placeholder="Search..."
+            // value={search}
+            onChange={handleOnChange}
+          />
+        </form>
+      </header>
+      <div>
+        <Router>
+          <nav>
+            <ul>
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/movies">MoviePage</Link></li>
+              <li><Link to="/details">DetailsPage</Link></li>
+            </ul>
+          </nav>
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/movies" component={MoviePage} />
+            <Route path="/details" component={DetailsPage} />
+          </Switch>
+        </Router>
+      </div>
+    </React.Fragment>
   )
 }
 export default App;

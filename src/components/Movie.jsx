@@ -1,22 +1,19 @@
 import React from 'react';
-//import movies_photo from './movies_background.jpg';
 import './styles/Movie.css';
 
-const img_array = [ "angry", "commandments", "duel" ];
-  const images = img_array.map(img => {
-    return <img key={img} src={require(`../../img/${img}.png`)} className="img-container" />
-    });
-
-const Movie = ({ Title, release_date, imdb_rating }) => (
+const Movie = ({ title, releaseDate, posterurl,  storyline, imdbRating }) => (
 
     <div className="movie">
-        {/* <div className="img-posters"> */}
-        {/* </div> */}
+        <h3>{title}</h3>
+        <img src={posterurl} alt="img" />
         <div className="movie-details">
-            <span className="date-style">{release_date}</span>
-            { images }
-            <h3>{Title}</h3>
-            <span className="rating_style">{imdb_rating}</span>
+            
+            <span className="date-style">{releaseDate}</span>
+            <span className="rating_style">{imdbRating}/10</span>
+        </div>
+        <div className="movie-description">
+            <h4>Description:</h4>
+            <p>{storyline}</p>
         </div>
     </div>
 );
