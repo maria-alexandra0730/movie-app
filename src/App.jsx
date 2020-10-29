@@ -1,65 +1,33 @@
-import React from 'react';
+import React, { Component } from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Home from './components/Home';
 import MoviePage from './components/MoviePage';
-import DetailsPage from './components/DetailsPage';
-
+import NewsPage from './components/NewsPage';
+import Navbar from './components/Navbar';
 import './App.css';
 
 
 
-function App() {
-
-
-  const handleOnSubmit = (e) => {
-    e.preventDefault();
-
-    // fetch(URL_SEARCH + search)
-    //   .then((res) => res.json())
-    //   .then((data) => { console.log(data);
-    //     setMovies(data.data);
-    //   });
-  };
-
-  const handleOnChange = (e) => {
-    // setSearch(e.target.value);
+class App extends Component {
+  render() {
+    return (
+      <React.Fragment>
+        <div>
+          <Router>
+            <Navbar />
+            <Switch>
+              <Route exact path="/" component={Home} />
+              <Route path="/news" component={NewsPage} />
+              <Route path="/movies" component={MoviePage} />
+            </Switch>
+          </Router>
+        </div>
+      </React.Fragment>
+    )
   }
-
-  return (
-    <React.Fragment>
-      <header>
-        <form onSubmit={handleOnSubmit}>
-          <input
-            type="text"
-            className="search-box"
-            placeholder="Search..."
-            // value={search}
-            onChange={handleOnChange}
-          />
-        </form>
-      </header>
-      <div>
-        <Router>
-          <nav>
-            <ul>
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/movies">MoviePage</Link></li>
-              <li><Link to="/details">DetailsPage</Link></li>
-            </ul>
-          </nav>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/movies" component={MoviePage} />
-            <Route path="/details" component={DetailsPage} />
-          </Switch>
-        </Router>
-      </div>
-    </React.Fragment>
-  )
 }
 export default App;

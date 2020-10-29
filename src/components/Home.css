@@ -1,0 +1,35 @@
+.container {
+  display: inline;
+
+}
+.jumbotron {
+    margin-bottom: 2em;
+    color: #efefef;
+    height: 200px;
+    position: relative;
+    background-color: gray;
+  } 
+
+.movie-wrapper {
+    margin-bottom: 0;
+  }
+  
+.movie-pic {
+    width: 45%;
+    height: 80%;
+    border-radius: 5px;
+    
+    
+  }
+.btn-primary {
+  background-color: rgb(13, 13, 14);
+  border-color: rgba(14, 13, 15, 0.699);
+  color:white;
+  font-size: 15px;
+}
+
+h3 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 20px;
+  }
