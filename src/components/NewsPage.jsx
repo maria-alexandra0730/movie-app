@@ -6,8 +6,6 @@ class NewsList extends Component {
     render() {
         return (
             <div>
-                {/* <Image src="assets/red_popcorn.jpg" className="header-image"/> */}
-                
                 <Container>
                 <h2>News </h2>
                     <Row>
